@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Emmanuel Ramos",
+         "cpf": "00000014141",
+         "email": "teste@teste.com",
+         "whatsapp": "79999999999",
+         "address": {
+             "postalcode": "49032360",
+             "street": "Rua Tenente Antônio Fontes Pitanga",
+             "number": "256",
+             "details": "Ap 123",
+             "district": "Farolândia",
+             "city_state": "Aracaju/SE"
+         },
+         "delivery_method": "Moto",
+         "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "TESTE INVALIDO",
+         "cpf": "000000141AA",
+         "email": "testcpfinvalido@teste.com",
+         "whatsapp": "79999999999",
+         "address": {
+             "postalcode": "49032360",
+             "street": "Rua Tenente Antônio Fontes Pitanga",
+             "number": "256",
+             "details": "Ap 123",
+             "district": "Farolândia",
+             "city_state": "Aracaju/SE"
+         },
+         "delivery_method": "Moto",
+         "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Emmanuel Ramos",
+         "cpf": "00000014141",
+         "email": "testeteste.com",
+         "whatsapp": "79999999999",
+         "address": {
+             "postalcode": "49032360",
+             "street": "Rua Tenente Antônio Fontes Pitanga",
+             "number": "256",
+             "details": "Ap 123",
+             "district": "Farolândia",
+             "city_state": "Aracaju/SE"
+         },
+         "delivery_method": "Moto",
+         "cnh": "cnh-digital.jpg"
+    }
+}
